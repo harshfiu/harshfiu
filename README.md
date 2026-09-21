@@ -36,11 +36,11 @@ Published research on pothole detection with YOLOv8, and I keep a
 
 | Project | Loadout | What it does |
 | :--- | :--- | :--- |
-| **[Credit Card Fraud Detection](https://github.com/harshfiu/Credit-Card-Fraud_Detection-System)** | `Python` `XGBoost` `scikit-learn` `Streamlit` | Fraud detection on heavily imbalanced transaction data. Compared Logistic Regression, SVM, KNN, Decision Tree and XGBoost on precision/recall/F1, with a Streamlit app for uploads, predictions and analytics |
-| **RoadIntel** · [app](https://github.com/harshfiu/RoadIntel-Mobile) · [admin](https://github.com/harshfiu/RoadIntel-Admin) | `React Native` `Expo` `Firebase` `Leaflet` | Road damage reporting, end to end: a mobile app where reports are captured with a photo and GPS location, and a web dashboard that plots and tracks them on a live map |
-| **[5G Network Performance Dashboard](https://github.com/harshfiu/5G-Network-Performance-Dashboard-Project)** | `JavaScript` `Data Viz` | Network performance analytics for mobile communication data |
-| **EaseEstate** | `Flask` `MySQL` | Full-stack real estate management system handling properties, owners, tenants, rental agreements and payments |
-| **[Portfolio](https://www.harshgupta.co.in)** | `React` `Framer Motion` `Vite` | This profile's visual language, as a playable-looking Tekken 7 fight screen |
+| **RoadIntel** · [app](https://github.com/harshfiu/RoadIntel-Mobile) · [admin](https://github.com/harshfiu/RoadIntel-Admin) | `React Native` `Expo` `Firebase` `Leaflet` | Reporting a pothole should take as long as photographing one. The app files a report from a photo and a GPS fix; the dashboard turns the pile into a work queue on a live map, ranked by the priority formula from my paper |
+| **[Credit Card Fraud Detection](https://github.com/harshfiu/Credit-Card-Fraud_Detection-System)** | `Python` `XGBoost` `scikit-learn` `Streamlit` | Finding the few fraudulent charges buried in a mountain of legitimate ones — where guessing "not fraud" every time still scores 99% accurate. Five models compared on precision, recall and F1, wrapped in a Streamlit app that scores a CSV on upload |
+| **[5G Network Performance Dashboard](https://github.com/harshfiu/5G-Network-Performance-Dashboard-Project)** | `Python` `Flask` `Chart.js` | Which carrier is actually better, answered live rather than argued about: RSSI, latency, throughput and packet loss across Jio, Airtel and Vi, streaming every 2.5s, with scoring that calls the winner |
+| **EaseEstate** | `Flask` `MySQL` | A property manager's entire job in one place — owners, tenants, leases and payments, kept straight by the relational schema underneath |
+| **[Portfolio](https://www.harshgupta.co.in)** | `React` `Framer Motion` `Vite` | A portfolio built as a Tekken 7 fight screen: round-call transitions, a rage mode, and an ember-lit arena behind it all |
 
 ---
 
