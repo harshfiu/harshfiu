@@ -10,9 +10,9 @@
 
 ### `// PLAYER PROFILE`
 
-B.Tech Computer Science student at **SRM IST, Kattankulathur** (Class of '27), currently interning as a
-**Software Developer at DHub Technologies LLC** (Dallas, TX — remote). I build full-stack products end to
-end, and train models when the problem is better solved by learning than by rules.
+B.Tech Computer Science student at **SRM IST, Kattankulathur** (Class of '27). Most recently a
+**Software Developer Intern at DHub Technologies LLC** (Dallas, TX — remote). I build full-stack products
+end to end, and train models when the problem is better solved by learning than by rules.
 
 Published research on pothole detection with YOLOv8, and I keep a
 [Tekken-themed portfolio](https://www.harshgupta.co.in) that I probably enjoyed building too much.
@@ -21,7 +21,7 @@ Published research on pothole detection with YOLOv8, and I keep a
 
 ### `// STORY MODE` — Experience
 
-**DHub Technologies LLC** · Software Developer Intern · *Feb 2026 – Present*
+**DHub Technologies LLC** · Software Developer Intern · *Feb 2026 – May 2026*
 
 ```
 ▸ Full-stack features in React.js, Node.js, PostgreSQL and TypeScript
