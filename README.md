@@ -37,7 +37,8 @@ Published research on pothole detection with YOLOv8, and I keep a
 | Project | Loadout | What it does |
 | :--- | :--- | :--- |
 | **[Credit Card Fraud Detection](https://github.com/harshfiu/Credit-Card-Fraud_Detection-System)** | `Python` `XGBoost` `scikit-learn` `Streamlit` | Fraud detection on heavily imbalanced transaction data. Compared Logistic Regression, SVM, KNN, Decision Tree and XGBoost on precision/recall/F1, with a Streamlit app for uploads, predictions and analytics |
-| **[5G Network Performance Dashboard](https://github.com/harshfiu/5G-Network-Performance-Dashboard-Project)** | `JavaScript` `Data Viz` | Network performance analytics, built for Advanced Mobile Communication |
+| **RoadIntel** · [app](https://github.com/harshfiu/RoadIntel-Mobile) · [admin](https://github.com/harshfiu/RoadIntel-Admin) | `React Native` `Expo` `Firebase` `Leaflet` | Road damage reporting, end to end: a mobile app where reports are captured with a photo and GPS location, and a web dashboard that plots and tracks them on a live map |
+| **[5G Network Performance Dashboard](https://github.com/harshfiu/5G-Network-Performance-Dashboard-Project)** | `JavaScript` `Data Viz` | Network performance analytics for mobile communication data |
 | **EaseEstate** | `Flask` `MySQL` | Full-stack real estate management system handling properties, owners, tenants, rental agreements and payments |
 | **[Portfolio](https://www.harshgupta.co.in)** | `React` `Framer Motion` `Vite` | This profile's visual language, as a playable-looking Tekken 7 fight screen |
 
