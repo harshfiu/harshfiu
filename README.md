@@ -65,11 +65,45 @@ HARDWARE               █████████████░░░░░░
 
 ---
 
-### `// TELEMETRY`
+### `// TECH LOADOUT`
+
+**Languages**
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=harshfiu&show_icons=true&hide_border=true&bg_color=0a0a0c&title_color=ff3b30&icon_color=ff8a00&text_color=c9c9d1" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshfiu&layout=compact&hide_border=true&bg_color=0a0a0c&title_color=ff3b30&text_color=c9c9d1" alt="Top languages" height="165" />
+  <img src="https://img.shields.io/badge/Python-ff3b30?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a0c" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-ff8a00?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0a0a0c" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-ff3b30?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0a0a0c" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-ff8a00?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0a0a0c" alt="SQL" />
+</p>
+
+**Frontend & Mobile**
+
+<p>
+  <img src="https://img.shields.io/badge/React-ff3b30?style=for-the-badge&logo=react&logoColor=white&labelColor=0a0a0c" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-ff8a00?style=for-the-badge&logo=react&logoColor=white&labelColor=0a0a0c" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-ff3b30?style=for-the-badge&logo=expo&logoColor=white&labelColor=0a0a0c" alt="Expo" />
+  <img src="https://img.shields.io/badge/Vite-ff8a00?style=for-the-badge&logo=vite&logoColor=white&labelColor=0a0a0c" alt="Vite" />
+</p>
+
+**Backend & Data**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-ff3b30?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0a0a0c" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Flask-ff8a00?style=for-the-badge&logo=flask&logoColor=white&labelColor=0a0a0c" alt="Flask" />
+  <img src="https://img.shields.io/badge/Firebase-ff3b30?style=for-the-badge&logo=firebase&logoColor=white&labelColor=0a0a0c" alt="Firebase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-ff8a00?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0a0a0c" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-ff3b30?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0a0a0c" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-ff8a00?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0a0a0c" alt="MongoDB" />
+</p>
+
+**Machine Learning**
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-ff3b30?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0a0a0c" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-ff8a00?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0a0a0c" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/XGBoost-ff3b30?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a0c" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/YOLOv8-ff8a00?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0a0a0c" alt="YOLOv8" />
+  <img src="https://img.shields.io/badge/Streamlit-ff3b30?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0a0a0c" alt="Streamlit" />
 </p>
 
 ---
