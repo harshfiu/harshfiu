@@ -26,7 +26,7 @@
 ### `// TECH LOADOUT`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,flask,js,ts,react,nodejs,expo,firebase,postgres,mysql,mongodb,tailwind,vite,git,github,vscode&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,flask,js,ts,react,nodejs,firebase,postgres,mysql,mongodb,tailwind,vite,git,github,vscode&theme=dark" alt="Tech stack" />
 </p>
 
 ### `// COMBAT STATS`
