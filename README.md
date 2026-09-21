@@ -1,4 +1,4 @@
-<img src="./assets/banner.png" alt="Harsh Gupta — Full-Stack Developer and ML Engineer" width="100%" />
+<img src="./assets/banner.png" alt="Harsh Gupta — ML Engineer and Full-Stack Developer" width="100%" />
 
 <p align="center">
   <a href="https://www.harshgupta.co.in"><img src="https://img.shields.io/badge/PORTFOLIO-harshgupta.co.in-ff3b30?style=for-the-badge&labelColor=0a0a0c" alt="Portfolio" /></a>
@@ -11,8 +11,8 @@
 ### `// PLAYER PROFILE`
 
 B.Tech Computer Science student at **SRM IST, Kattankulathur** (Class of '27). Most recently a
-**Software Developer Intern at DHub Technologies LLC** (Dallas, TX — remote). I build full-stack products
-end to end, and train models when the problem is better solved by learning than by rules.
+**Software Developer Intern at DHub Technologies LLC** (Dallas, TX — remote). I train models when a problem is better solved by
+learning than by rules, and build the full-stack products they live inside.
 
 Published research on pothole detection with YOLOv8, and I keep a
 [Tekken-themed portfolio](https://www.harshgupta.co.in) that I probably enjoyed building too much.
@@ -47,11 +47,11 @@ Published research on pothole detection with YOLOv8, and I keep a
 ### `// COMBAT STATS`
 
 ```
-PROGRAMMING LANGUAGES  ███████████████████░  90   Python · JavaScript · SQL · C++
+MACHINE LEARNING       ████████████████░░░░  80   PyTorch · scikit-learn · XGBoost · YOLOv8
+PROGRAMMING LANGUAGES  ███████████████████░  90   Python · JavaScript · SQL
 FRAMEWORKS             ██████████████████░░  85   React · React Native · Node · Flask
 TOOLS                  ██████████████████░░  88   Git · VS Code · Streamlit
 DATABASES              █████████████████░░░  82   PostgreSQL · MySQL · MongoDB
-MACHINE LEARNING       ████████████████░░░░  80   PyTorch · scikit-learn · XGBoost · YOLOv8
 HARDWARE               █████████████░░░░░░░  65   Raspberry Pi
 ```
 
@@ -110,7 +110,7 @@ HARDWARE               █████████████░░░░░░
 
 ### `// VERSUS` — Ready for the next round
 
-Open to internships and full-stack / ML engineering roles.
+Open to internships and ML / full-stack engineering roles.
 
 **[harshgupta.co.in](https://www.harshgupta.co.in)** · **[harsh370hg@gmail.com](mailto:harsh370hg@gmail.com)** · **[in/harshfiu](https://www.linkedin.com/in/harshfiu)**
 
