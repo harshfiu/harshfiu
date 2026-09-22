@@ -10,7 +10,7 @@
 
 - 🎓 B.Tech CSE @ **SRM IST Kattankulathur**, Class of '27
 - 🧠 ML engineer first, full-stack second — I train models when rules aren't enough
-- 📄 Published **pothole detection & priority ranking** research — *iJRDO, Apr 2026*
+- 📄 Published **pothole detection & priority ranking** research — *iJRDO, Apr 2026* · [read it](https://ijrdojcse.com/index.php/cse/article/view/6649)
 - 💼 Ex **Software Developer Intern @ DHub Technologies LLC** (Dallas, TX — remote)
 - 🏅 **Microsoft Certified: Azure AI Fundamentals**
 - 📫 **harsh370hg@gmail.com** — open to ML / full-stack roles
