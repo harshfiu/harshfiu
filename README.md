@@ -4,7 +4,6 @@
   <a href="https://www.harshgupta.co.in"><img src="https://img.shields.io/badge/PORTFOLIO-harshgupta.co.in-ff3b30?style=for-the-badge&labelColor=0a0a0c" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/harshfiu"><img src="https://img.shields.io/badge/LINKEDIN-in/harshfiu-ff8a00?style=for-the-badge&labelColor=0a0a0c" alt="LinkedIn" /></a>
   <a href="mailto:harsh370hg@gmail.com"><img src="https://img.shields.io/badge/EMAIL-harsh370hg@gmail.com-ff3b30?style=for-the-badge&labelColor=0a0a0c" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=harshfiu&label=PROFILE+VIEWS&color=ff3b30&style=for-the-badge" alt="Profile views" />
 </p>
 
 ### `// PLAYER PROFILE`
