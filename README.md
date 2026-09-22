@@ -15,6 +15,7 @@
 - 💼 Ex **Software Developer Intern @ DHub Technologies LLC** (Dallas, TX — remote)
 - 🏅 **Microsoft Certified: Azure AI Fundamentals**
 - 📫 **harsh370hg@gmail.com** — open to ML / full-stack roles
+- 📄 Résumé, pick a lane — [Data Analytics & ML](https://www.harshgupta.co.in/resume-ml.pdf) · [Full-Stack](https://www.harshgupta.co.in/resume-fullstack.pdf)
 
 ### `// ARCADE` — Builds
 
